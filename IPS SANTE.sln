@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPS SANTE", "IPS SANTE.csproj", "{99C2F981-5F21-4E04-B67D-C169A497181B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C2F981-5F21-4E04-B67D-C169A497181B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C2F981-5F21-4E04-B67D-C169A497181B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C2F981-5F21-4E04-B67D-C169A497181B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C2F981-5F21-4E04-B67D-C169A497181B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC77F51-A862-4CC0-8781-02059FAA8A21}
+	EndGlobalSection
+EndGlobal
